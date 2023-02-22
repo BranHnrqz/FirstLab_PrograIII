@@ -1,0 +1,3 @@
+C:\Users\ALUMNO\Desktop\FirstLab_PrograIII\FirstLab_PrograIII\obj\Debug\FirstLab_PrograIII.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\FirstLab_PrograIII\FirstLab_PrograIII\obj\Debug\FirstLab_PrograIII.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\Desktop\FirstLab_PrograIII\FirstLab_PrograIII\obj\Debug\FirstLab_PrograIII.csproj.CoreCompileInputs.cache
